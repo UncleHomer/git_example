@@ -1,0 +1,7 @@
+#ignore logs folder
+logs/
+
+#За решеткой идут только комментарии
+
+#ignore any txt-files by mask
+docs/*.txt
